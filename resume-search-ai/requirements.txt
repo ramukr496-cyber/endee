@@ -1,0 +1,18 @@
+# =============================================
+# AI Resume Semantic Search — Dependencies
+# =============================================
+
+# Web UI framework
+streamlit>=1.30.0
+
+# PDF text extraction
+PyPDF2>=3.0.0
+
+# AI embedding model (converts text → vectors)
+sentence-transformers>=2.2.0
+
+# Endee Python SDK (vector database client)
+endee>=0.1.0
+
+# HTTP requests (used by Endee SDK internally)
+requests>=2.28.0

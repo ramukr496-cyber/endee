@@ -334,19 +334,19 @@ results = index.query(vector=[0.15, 0.25, ...], top_k=5)
 ### 📤 Upload Resumes
 
 <p align="center">
-  <img src="docs/assets/screenshot1.png.jpeg" width="800"/>
+  <img src="screenshot1.png.jpeg" width="800"/>
 </p>
 
 ### 🔍 Search Results
 
 <p align="center">
-  <img src="docs/assets/screenshot2.png.jpeg" width="800"/>
+  <img src="screenshot2.png.jpeg" width="800"/>
 </p>
 
 ### 📊 Endee Dashboard
 
 <p align="center">
-  <img src="docs/assets/screenshot3.png.jpeg" width="800"/>
+  <img src="screenshot3.png.jpeg" width="800"/>
 </p>
 
 ---

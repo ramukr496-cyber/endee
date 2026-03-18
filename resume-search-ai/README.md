@@ -329,10 +329,25 @@ results = index.query(vector=[0.15, 0.25, ...], top_k=5)
 
 ## 📸 Screenshots
 
-> Add screenshots of your running application here:
-> 1. The Upload tab with files being processed
-> 2. The Search tab showing results
-> 3. The Endee dashboard at localhost:8080
+## 📸 Screenshots
+
+### 📤 Upload Resumes
+
+<p align="center">
+  <img src="docs/assets/screenshot1.png.jpeg" width="800"/>
+</p>
+
+### 🔍 Search Results
+
+<p align="center">
+  <img src="docs/assets/screenshot2.png.jpeg" width="800"/>
+</p>
+
+### 📊 Endee Dashboard
+
+<p align="center">
+  <img src="docs/assets/screenshot3.png.jpeg" width="800"/>
+</p>
 
 ---
 

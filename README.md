@@ -27,15 +27,15 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/assets/screenshot1.png" width="800"/>
+  <img src="docs/assets/screenshot1.png.jpeg" width="800"/>
 </p>
 
 <p align="center">
-  <img src="docs/assets/screenshot2.png" width="800"/>
+  <img src="docs/assets/screenshot2.png.jpeg" width="800"/>
 </p>
 
 <p align="center">
-  <img src="docs/assets/screenshot3.png" width="800"/>
+  <img src="docs/assets/screenshot3.png.jpeg" width="800"/>
 </p>
 
 ---

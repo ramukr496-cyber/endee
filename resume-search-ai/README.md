@@ -327,7 +327,7 @@ results = index.query(vector=[0.15, 0.25, ...], top_k=5)
 
 ---
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
